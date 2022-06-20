@@ -1,0 +1,15 @@
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\bin\Debug\net6.0\SMTPLetestApp.exe
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\bin\Debug\net6.0\SMTPLetestApp.deps.json
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\bin\Debug\net6.0\SMTPLetestApp.runtimeconfig.json
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\bin\Debug\net6.0\SMTPLetestApp.dll
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\bin\Debug\net6.0\SMTPLetestApp.pdb
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.csproj.AssemblyReference.cache
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.AssemblyInfoInputs.cache
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.AssemblyInfo.cs
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.csproj.CoreCompileInputs.cache
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.dll
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\refint\SMTPLetestApp.dll
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.pdb
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\SMTPLetestApp.genruntimeconfig.cache
+D:\Codez\c#\SMTPLetestApp\SMTPLetestApp\obj\Debug\net6.0\ref\SMTPLetestApp.dll
