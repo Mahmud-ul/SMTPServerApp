@@ -13,9 +13,9 @@ public class SMTPLetestApp
         try
         {
             System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.SystemDefault;
-            string from = "docuspeedy@ispahanibd.com";
+            string from = "demo@company.com";
             string to = "tipumahmudulhasan55@gmail.com";
-            string password = "iTD%p5y#83";
+            string password = "password";
             //Mail Prepare
             MailMessage msg = new MailMessage();
             msg.Subject = "Test Mail";
