@@ -28,7 +28,7 @@ public class SMTPLetestApp
 
             //Server Prepare
             SmtpClient smtp = new SmtpClient();
-            smtp.Host = "mail.ispahanibd.com";
+            smtp.Host = "mail.company.com";
             smtp.Port = 25;
             smtp.EnableSsl = true;
             smtp.Credentials = nc;
